@@ -6,7 +6,7 @@
         {
             var answer = 4;
             var response = "";
-            if (answer < 9)
+            //if (answer < 9)
             //{
             //    response = ($" {answer} is less than nine, ");
            // }
